@@ -1,16 +1,17 @@
-### Hi there 👋
+## Diogo Freitas
+My ultimate career goal is to shape the future of mobility and transport by developing user-centered solutions applying cutting-edge technologies that are currently trending in the automotive industry.
 
-<!--
-**daiogo/daiogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current position
+Embedded Software Engineer @ Volvo Group
 
-Here are some ideas to get you started:
+## Professional Interests
+- Autonomous Vehicles
+- Advanced Driver Assistance Systems (ADAS)
+- Connected Cars (V2X)
+- Electromobility
+- Intelligent Transportation Systems (ITS)
+- ECU Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+www.linkedin.com/in/daiogo  
+www.daiogo.com  
