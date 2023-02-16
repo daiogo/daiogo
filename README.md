@@ -4,6 +4,7 @@ My ultimate career goal is to shape the future of mobility and transport by deve
 ## Current position
 Embedded Software Engineer @ Volvo Group
 
+<!--
 ## Professional Interests
 - ECU Software Development
 - Autonomous Vehicles
@@ -11,6 +12,7 @@ Embedded Software Engineer @ Volvo Group
 - Connected Cars (V2X)
 - Electromobility
 - Intelligent Transportation Systems (ITS)
+-->
 
 ## Contact
 www.linkedin.com/in/daiogo  
